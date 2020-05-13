@@ -2,14 +2,7 @@
 
 Blogging platform using [Notion](https://notion.so)
 
----
-toc: true
-layout: post
-description: A minimalistic blog generator for Notion.so
-categories: [markdown]
-title: Setting up a blog from a Notion Table 
-tags: [blog, javascript, notion]
----
+
 
 
 ![version](https://img.shields.io/npm/v/notablog.svg?style=flat-square&color=007acc&label=version) ![license](https://img.shields.io/github/license/dragonman225/notablog.svg?style=flat-square&label=license&color=08CE5D)
